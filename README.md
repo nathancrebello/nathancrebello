@@ -4,7 +4,7 @@ I like all things security, quantum computing, fintech, piano, and hockey
 
 ---
 
-## Security Disclosures (CVEs Authored)
+## Security Disclosures
 
 | CVE ID | Component | Severity | Type |
 |---|---|---|---|
