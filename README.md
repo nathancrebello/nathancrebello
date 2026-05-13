@@ -23,3 +23,4 @@ i like all things coding, piano, and hockey
 
 - **2nd place — MIT Quantum Computing Hackathon (January 2026)**
   Optimized quantum-circuit approximations of unitary operators using Clifford + T gates, minimizing T-gate count for fault-tolerant quantum computing.
+
