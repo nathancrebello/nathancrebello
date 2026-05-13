@@ -1,53 +1,25 @@
-<h1 align="center">hi, my name's nate</h1>
+# hi, my name's nate
 
-<p align="center">
-  i like all things coding, piano, and hockey
-</p>
+i like all things coding, piano, and hockey
 
-#
+---
 
-<h3 align="center">CVEs</h3>
+## Security Disclosures (CVEs Authored)
 
-<div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>CVE ID</th>
-        <th>Product</th>
-        <th>Severity</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-31607">CVE-2026-31607</a></td>
-        <td>linux kernel (USB/IP subsystem)</td>
-        <td>9.8 CRITICAL</td>
-      </tr>
-      <tr>
-        <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-31729">CVE-2026-31729</a></td>
-        <td>linux kernel (USB Type-C UCSI driver)</td>
-        <td>7.8 HIGH</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+| CVE ID | Component | Severity | Type |
+|---|---|---|---|
+| **[CVE-2026-31607](https://nvd.nist.gov/vuln/detail/CVE-2026-31607)** | Linux kernel — USB/IP subsystem | **9.8 CRITICAL** | Heap out-of-bounds write (CWE-787) |
+| **[CVE-2026-31729](https://nvd.nist.gov/vuln/detail/CVE-2026-31729)** | Linux kernel — USB Type-C UCSI driver | **7.8 HIGH** | Out-of-bounds array access (CWE-129) |
 
-#
+---
 
-<h3 align="center">Some Cool Projects</h3>
+## Some Cool Projects
 
-<div align="center">
+- **1st place — ETH Zürich Quantum Hackathon (May 2026)**
+  Quantum-inspired ML for DDoS detection. 4-qubit QAOA classifier matched the classical baseline at F1 = 1.000 and outperformed it in scarce-label and adversarial regimes.
 
-**Quantum-Inspired ML for DDoS Detection** — *1st place, ETH Zürich Quantum Hackathon (May 2026)*
-QCentroid × GSMA Challenge · Associated with Dartmouth College
-4-qubit QAOA-style variational classifier for network traffic anomaly detection. Matched the classical baseline at F1 = 1.000 and outperformed it in scarce-label, adversarial, and cross-distribution regimes.
+- **1st place — Yale Quantum Computing Hackathon (April 2026)**
+  Benchmarked QAOA and DQI on a P&C insurance product bundling problem (0-1 ILP, up to 200 binary variables) on Quantinuum's Guppy and Selene emulator.
 
-**QAOA vs DQI for Insurance Product Bundling** — *1st place, Yale Quantum Computing Hackathon (April 2026)*
-Yale Quantum Institute · Travelers Insurance · Quantinuum · LTM · Associated with Dartmouth College
-Benchmarked QAOA and DQI on a P&C insurance product bundling problem — a 0-1 ILP with up to 200 binary variables — across five problem sizes using Quantinuum's Guppy and the Selene emulator.
-
-**T-Gate Optimal Unitary Approximation** — *2nd place, MIT Quantum Computing Hackathon (January 2026)*
-MIT · Superquantum · Associated with Dartmouth College
-Optimized quantum circuits to approximate target unitary operators using Clifford (CNOT, H) + T gates, minimizing T-gate count — critical for fault-tolerant quantum computing — while also minimizing approximation error.
-
-</div>
+- **2nd place — MIT Quantum Computing Hackathon (January 2026)**
+  Optimized quantum-circuit approximations of unitary operators using Clifford + T gates, minimizing T-gate count for fault-tolerant quantum computing.
