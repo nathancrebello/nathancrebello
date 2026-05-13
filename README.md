@@ -1,6 +1,4 @@
-# hi, my name's nate
-
-i like all things coding, piano, and hockey
+# Hi, my name's Nate and I like all things coding, piano, and hockey. I'm interested in security, quantum computing, and fintech.
 
 ---
 
