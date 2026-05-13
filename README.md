@@ -1,6 +1,6 @@
 ## Hi, my name's Nate!
 
-I like all things security, quantum computing, fintech, piano, and hockey
+I love all things security, quantum computing, fintech, piano, and hockey
 
 ---
 
